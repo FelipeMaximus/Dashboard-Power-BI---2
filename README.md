@@ -13,11 +13,11 @@ Neste projeto foi feita uma análise de uma base de dados referente a uma empres
 
 # Microsoft Power Bi
 
-  - [x] Análise de vendas
-  - [x] Análise por representante
-  - [x] Análise por cliente
-  - [x] Análise de produtos
-  - [x] Análise por Região
+  - [x] Atendimento por Status
+  - [x] Atendimento por Setor
+  - [x] Análise por Geo-Localização
+  - [x] Atendimento por Período
+  - [x] Análise de atendimentos pendentes
 
 
 
