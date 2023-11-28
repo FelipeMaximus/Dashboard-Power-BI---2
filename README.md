@@ -7,9 +7,9 @@
 
 
 # Dashboard-Power-BI
-Este projeto foi criado visando o tratamento de dados e melhores tomadas de desições comerciais.
+Este projeto foi criado visando o tratamento de dados e melhores tomadas de desições comerciais de atendimento para uma Instituição de ensino, que oferece cursos para empresas e pessoas físicas.
 
-Neste projeto foi feita uma análise de uma base de dados referente a uma empresa de vendas nacional, de instiuição de grande porte.
+Neste projeto foi feita uma análise de uma base de dados referente a uma empresa de atendimento nacional, de instiuição de grande porte.
 
 # Microsoft Power Bi
 
