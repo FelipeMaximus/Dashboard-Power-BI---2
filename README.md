@@ -3,7 +3,7 @@
 
 ## :camera: Demo
 
-![power bi](https://github.com/FelipeMaximus/Dashboard-Power-BI/assets/53831498/d935f592-72ff-495b-9479-50c70f4e03fc)
+![2](https://github.com/FelipeMaximus/Dashboard-Power-BI---2/assets/53831498/1af248f8-a5c9-4134-a963-ae2457541890)
 
 
 # Dashboard-Power-BI
